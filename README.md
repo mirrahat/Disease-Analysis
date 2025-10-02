@@ -128,7 +128,3 @@ The system provides an interactive dashboard where users can:
 - Receive personalized lifestyle recommendations
 
 ---
-```
-Let me know if you want to add more emojis, badges, or further customization!
-
-Sources
